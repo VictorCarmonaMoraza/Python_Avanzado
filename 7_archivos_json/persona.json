@@ -1,5 +1,10 @@
 {
   "nombre": "Juan",
   "apellido": "Gomez",
-  "edad": 30
+  "edad": 30,
+  "colores": [
+    "rojo",
+    "verde",
+    "azul"
+  ]
 }
